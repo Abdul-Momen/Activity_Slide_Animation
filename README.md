@@ -111,6 +111,8 @@
     android:duration="250"
     android:interpolator="@android:anim/accelerate_decelerate_interpolator"
     >
+    
+    
 
     <translate
         android:fromXDelta="0%"
